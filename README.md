@@ -26,8 +26,7 @@ Vibe-Check-AI/
 └── README.md           # Project documentation
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/vibe-check-ai.git
-cd vibe-check-ai
+git clone https://github.com/PRIME-BN1000/ML_hackathon
 
 2️⃣ Create & activate virtual environment
 python -m venv venv
